@@ -1,0 +1,34 @@
+body
+{
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 1024px;
+    background-color: rgb(50, 143, 205);
+}
+.ma_photo
+{
+    background-color: rgb(143, 143, 48);
+    text-align: justify;
+    display: inline-block;
+    padding: 20px;
+    justify-content: space-between;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: monospace;
+}
+.moientout
+{
+    justify-content: space-between;
+    font-family: monospace;
+    text-align: justify;
+
+}
+.maphoto
+{
+    border-radius: 50%;
+    width: 350px;
+    height: 300px;
+}
